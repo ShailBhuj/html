@@ -18,17 +18,17 @@ body, html{
 	background-attachment: fixed;
 }
 .pimg1{
-	background-image:url('img/pic1.jpg');
+	background-image:url('pic1.jpg');
 	min-height: 100%;
 }
 
 .pimg2{
-	background-image:url('img/pic2.jpg');
+	background-image:url('pic2.jpg');
 	min-height: 400px;
 }
 
 .pimg3{
-	background-image:url('img/pic1.jpg');
+	background-image:url('pic1.jpg');
 	min-height: 400px;
 }
 .section{
